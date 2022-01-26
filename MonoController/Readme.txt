@@ -1,3 +1,4 @@
 MonoManager模块
 给没有继承Monobehavior的类提供update方法，和使用协程的功能
 MonoController不要直接使用，在MonoManager里通过单例调用它
+需要不带MonoBehavior的单例
