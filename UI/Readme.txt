@@ -1,0 +1,3 @@
+提供对主Canvas的加载和对Panel的加载
+需要不带Mono的单例
+需要将要加载管理的Canvas和Panel打进AB包
